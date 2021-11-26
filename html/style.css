@@ -1,5 +1,5 @@
 p {
-    color: red;
+    color: black;
 }
 
 a {
@@ -8,4 +8,13 @@ a {
 body {
     font-size: 14px;
     color: navy;
+	background-color: #eee;
+}
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
+h2 {
+	color: #dfd;
+	background-color: #115;
 }
