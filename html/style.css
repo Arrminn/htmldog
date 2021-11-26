@@ -1,5 +1,6 @@
 p {
-    color: red;
+    color: black;
+	font-family: arial, helvetica, serif
 }
 
 a {
@@ -8,4 +9,15 @@ a {
 body {
     font-size: 14px;
     color: navy;
+	background-color: #ede;
+}
+h1 {
+    color: #ffc;
+    background-color: #009;
+	font-style: italic
+}
+h2 {
+	color: #dfd;
+	background-color: #115;
+	font-weight: 900;
 }
