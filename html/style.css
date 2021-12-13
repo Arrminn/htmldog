@@ -16,17 +16,15 @@ body {
     border-right-width: 10px;
     border-color: red;
 }
-/*so this is a comment. you're welcome*/
 h1 {
     color: #ffc;
     background-color: #009;
 	font-style: italic
 }
 h2 {
-	h2 {
     font-size: 1.5em;
     background-color: #ccc;
     margin: 20px;
     padding: 40px;
 }
-}
+
